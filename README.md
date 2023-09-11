@@ -7,7 +7,7 @@ Description: This repo contains helper classes, mixins and functions that simpli
 * Validator: validates String for text fields using RegEx
 * String Extension: provides utilities to manipulate strings
 * Image Utility: provides utilities to read images and videos into app
-
+* Geolocation: provides utilities to get and manage device location.
 
 ### Contributions 📥
 Feel free to make improvements and fixes to the snippets. A new PR is always welcome.

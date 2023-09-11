@@ -15,6 +15,9 @@ dependencies:
   url_launcher:
   image_picker:
   permission_handler:
+  geocoding:
+  geolocator:
+  collection:
 
 dev_dependencies:
   flutter_test:
