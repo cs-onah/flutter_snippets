@@ -1,25 +1,13 @@
-# Flutter Snippets
+# Flutter Snippets 🔩
+Description: This repo contains helper classes, mixins and functions that simplifies the implementation of certain functionalities.
 
-## Features
+### Snippets added
+* Response Parser: safe serialization for json data
+* App Interface: launches urls, calls, share, etc.
+* Validator: validates String for text fields using RegEx
+* String Extension: provides utilities to manipulate strings
+* Image Utility: provides utilities to read images and videos into app
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+### Contributions 📥
+Feel free to make improvements and fixes to the snippets. A new PR is always welcome.
